@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EXOOP/EXOOP.iml" filepath="$PROJECT_DIR$/EXOOP/EXOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lap_OOP5/Lap_OOP5.iml" filepath="$PROJECT_DIR$/Lap_OOP5/Lap_OOP5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MOT_SO_BAI_TAP_THI_DU/MOT_SO_BAI_TAP_THI_DU.iml" filepath="$PROJECT_DIR$/MOT_SO_BAI_TAP_THI_DU/MOT_SO_BAI_TAP_THI_DU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm_project_OOP/Midterm_project_OOP.iml" filepath="$PROJECT_DIR$/Midterm_project_OOP/Midterm_project_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP-Lapwork4/OOP-Lapwork4.iml" filepath="$PROJECT_DIR$/OOP-Lapwork4/OOP-Lapwork4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP3/OOP3.iml" filepath="$PROJECT_DIR$/OOP3/OOP3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SE/src/SE.iml" filepath="$PROJECT_DIR$/SE/src/SE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SE/SE1.iml" filepath="$PROJECT_DIR$/SE/SE1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Enginnering/Software_Enginnering.iml" filepath="$PROJECT_DIR$/Software_Enginnering/Software_Enginnering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alo1/alo1.iml" filepath="$PROJECT_DIR$/alo1/alo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai 1/bai 1.iml" filepath="$PROJECT_DIR$/bai 1/bai 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex1/ex1.iml" filepath="$PROJECT_DIR$/ex1/ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SE/src/src.demoEX/src.demoEX.iml" filepath="$PROJECT_DIR$/SE/src/src.demoEX/src.demoEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testpy/testpy.iml" filepath="$PROJECT_DIR$/testpy/testpy.iml" />
+    </modules>
+  </component>
+</project>

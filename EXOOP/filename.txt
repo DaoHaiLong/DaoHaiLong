@@ -1,0 +1,53 @@
+"C:\Program Files\Java\jdk-14.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\lib\idea_rt.jar=52067:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\ADMIN\IdeaProjects\EXOOP\out\production\EXOOP TESTBANG_CHI_TIET_NHAN_VIEN
+Nhap so n
+2
+Nhap so ID nhan vien:[0]
+041
+Nhap ten nhan vien:[ 0]
+Dao Hai Long
+nhap co quan lam viec:[0]
+USTH
+nhap luong co ban:[0]
+50000000
+nhap so gio tang ca:[0]
+50
+nhap phi di lai:[0]
+1500000
+nhap phi bao hiem xa hoi[0]
+750000
+hien thong tin la ngoai man hinh:
+TEN NHAN VIEN:Dao Hai Long
+ID:41
+LUONG CO BAN:5.0E7
+SO GIO TANG CA:50.0
+PHI DI LAI:1500000.0
+PHI BAO HIEM XA HOI:750000.0
+SO TIEN :
+so luong phai dong thue la:4875000.0
+so luong con lai la:4.3875E7
+Nhap so ID nhan vien:[1]
+008
+Nhap ten nhan vien:[ 1]
+Doan Van Chuong
+nhap co quan lam viec:[1]
+USTH
+nhap luong co ban:[1]
+40000000
+nhap so gio tang ca:[1]
+20
+nhap phi di lai:[1]
+2000000
+nhap phi bao hiem xa hoi[1]
+750000
+hien thong tin la ngoai man hinh:
+TEN NHAN VIEN:Doan Van Chuong
+ID:8
+LUONG CO BAN:4.0E7
+SO GIO TANG CA:20.0
+PHI DI LAI:2000000.0
+PHI BAO HIEM XA HOI:750000.0
+SO TIEN :
+so luong phai dong thue la:3765000.0
+so luong con lai la:3.3885E7
+
+Process finished with exit code 0
